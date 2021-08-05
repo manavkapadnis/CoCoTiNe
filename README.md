@@ -4,6 +4,8 @@ This repository is the official repository of CoCoTiNe paper submitted at the [2
 
 ## Authors - Goh Howe Seng, Manav Nitin Kapadnis, Tomas Maul (to be finalised after acceptance)
 
+## Abstract 
+
 Deep neural networks tend to be accurate but computationally expensive, whereas ensembles tend to be fast but do not capitalize on hierarchical representations. This paper proposes an approach that attempts to combine the advantages of both approaches. Hierarchical ensembles represent an effort in this direction, however they are not compositional in a representational sense, since they only combine classifier decisions and/or outputs. We propose to take this effort one step further in the form of compositional ensembles, which exploit the composition of the hidden representations of classifiers, here defined as tiny networks on account of being neural networks of significantly limited scale. As such, our particular instance of compositional ensembles is called Compositional Committee of Tiny Networks (CoCoTiNe). We experimented with different CoCoTiNe variants involving different types of composition, input usage, and ensemble decisions. The best variant demonstrated that CoCoTiNe is more accurate than standard hierarchical committees, and is relatable to the accuracy of vanilla Convolutional Neural Networks, whilst being **25.7 times faster in a standard CPU setup**. In conclusion,
 the paper demonstrates that compositional ensembles, especially in the context of tiny networks, are a viable and efficient approach for combining the advantages of deep networks and ensembles.
 
