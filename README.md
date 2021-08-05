@@ -10,14 +10,12 @@ the paper demonstrates that compositional ensembles, especially in the context o
 ### Sections
 1. [Paper](#system-description-paper)
 2. [Architecture](#architecture)
-3. [Noteworthy Achievements](#achieivements) <!-- *please change the header over here* -->
-4. [Implementation Details](#implementation-details) <!-- *please change the header over here if it is not suitable* -->
-5. [Citing](#Cite-details)
-6. [Author Contact Details](#authors-info)
+3. [Implementation Details](#implementation-details)
+4. [Citing](#Cite-details)
+5. [Author Contact Details](#authors-info)
 
-## Paper  (pending)
+## Paper  (upload link here after final paper is submitted)
 Our paper can be found [here](to be added).  
-Our presentation for the conference can be found [here](to be added).
 
 ## Architecture
 
@@ -25,9 +23,6 @@ Our presentation for the conference can be found [here](to be added).
 <br>
 *Simplified diagram of a CoCoTiNe architecture*
 
-## Noteworthy Achievements
-
-  
 ## Implementation Details  
 
 - All the files are meant to be executed on Google Colab environment.
@@ -46,4 +41,8 @@ Our presentation for the conference can be found [here](to be added).
 	
 ## Citing (after acceptance)
 	
-## Author Contact Details (after acceptance)
+## Author Contact Details
+
+[Goh Howe Sang](howeseng@gmail.com) <br>
+[Manav Nitin Kapadnis](iammanavk@gmail.com) <br>
+[Tomas Maul](Tomas.Maul@nottingham.edu.my) <br>
