@@ -29,7 +29,7 @@ Our paper can be found [here](to be added).
 
 - All the files are meant to be executed on Google Colab environment.
  
-- The files are serated into folder by datasets. Each folder consists of all variant of experiments conduct of that datasets.
+- The files are separated into folder by datasets. Each folder consists of all variant of experiments conduct of that datasets.
 
 - <Final HiCoTiNe MNIST.ipynb> at the root directory are meant to be an example of the final implementation of HiCoTiNe tested on MNIST dataset.
 
