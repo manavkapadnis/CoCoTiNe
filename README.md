@@ -45,6 +45,6 @@ Our paper can be found [here](to be added).
 	
 ## Author Contact Details
 
-[Goh Howe Sang](howeseng@gmail.com) <br>
-[Manav Nitin Kapadnis](iammanavk@gmail.com) <br>
-[Tomas Maul](Tomas.Maul@nottingham.edu.my) <br>
+[Goh Howe Sang](mailto:howeseng@gmail.com) <br>
+[Manav Nitin Kapadnis](mailto:iammanavk@gmail.com) <br>
+[Tomas Maul](mailto:Tomas.Maul@nottingham.edu.my) <br>
