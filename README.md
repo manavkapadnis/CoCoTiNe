@@ -41,6 +41,12 @@ Our paper can be found [here](to be added).
 - The original Google Colab files can be accessed at https://drive.google.com/drive/folders/1IcMgBMvcjZdkiMC85WgRWTEqOIMhp3nK?usp=sharing
 <br>	
 	
+## Abbreviations
+	
+- BC -> Baseline Condition 
+- CoCoTiNe ->  Compositional Committees of Tiny Networks
+- HiCoTiNe -> Hierarchical Committee of Tiny Networks
+	
 ## Citing (after acceptance)
 	
 ## Author Contact Details
