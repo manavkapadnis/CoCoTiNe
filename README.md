@@ -2,7 +2,7 @@
 
 This repository is the official repository of CoCoTiNe paper submitted at the [28th International Conference on Neural Information Processing (ICONIP2021)](https://iconip2021.apnns.org/).
 
-## Authors - Goh Howe Seng, Manav Nitin Kapadnis, Tomas Maul (to be finalised after acceptance)
+## Authors - Goh Howe Seng, Tomas Maul, Manav Nitin Kapadnis
 
 ## Abstract 
 
@@ -52,5 +52,6 @@ Our paper can be found [here](to be added).
 ## Author Contact Details
 
 [Goh Howe Sang](mailto:howeseng@gmail.com) <br>
+[Tomas Maul](mailto:Tomas.Maul@nottingham.edu.my) <br
 [Manav Nitin Kapadnis](mailto:iammanavk@gmail.com) <br>
-[Tomas Maul](mailto:Tomas.Maul@nottingham.edu.my) <br>
+
