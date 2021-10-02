@@ -13,8 +13,8 @@ the paper demonstrates that compositional ensembles, especially in the context o
 1. [Paper](#system-description-paper)
 2. [Architecture](#architecture)
 3. [Implementation Details](#implementation-details)
-<!--4. [Citing](#Cite-details)-->
 4. [Author Contact Details](#authors-info)
+<!--4. [Citing](#Cite-details)-->
 
 ## Paper
 Our paper can be found [here](https://github.com/manavkapadnis/CoCoTiNe/blob/main/CoCoTiNe_paper.pdf).  
