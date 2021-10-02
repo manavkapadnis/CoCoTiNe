@@ -1,6 +1,6 @@
 # CoCoTiNe : Compositional Committees of Tiny Networks
 
-This repository is the official repository of CoCoTiNe paper submitted at the [28th International Conference on Neural Information Processing (ICONIP2021)](https://iconip2021.apnns.org/).
+This repository is the official repository of CoCoTiNe paper accepted at the [28th International Conference on Neural Information Processing (ICONIP2021)](https://iconip2021.apnns.org/).
 
 ## Authors - Goh Howe Seng, Tomas Maul, Manav Nitin Kapadnis
 
@@ -13,11 +13,11 @@ the paper demonstrates that compositional ensembles, especially in the context o
 1. [Paper](#system-description-paper)
 2. [Architecture](#architecture)
 3. [Implementation Details](#implementation-details)
-4. [Citing](#Cite-details)
-5. [Author Contact Details](#authors-info)
+<!--4. [Citing](#Cite-details)-->
+4. [Author Contact Details](#authors-info)
 
-## Paper  (upload link here after final paper is submitted)
-Our paper can be found [here](to be added).  
+## Paper
+Our paper can be found [here](https://github.com/manavkapadnis/CoCoTiNe/blob/main/CoCoTiNe_paper.pdf).  
 
 ## Architecture
 
@@ -47,7 +47,7 @@ Our paper can be found [here](to be added).
 - CoCoTiNe ->  Compositional Committees of Tiny Networks
 - HiCoTiNe -> Hierarchical Committee of Tiny Networks
 	
-## Citing (after acceptance)
+<!--## Citing (tbd)-->
 	
 ## Author Contact Details
 
