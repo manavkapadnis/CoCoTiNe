@@ -51,7 +51,7 @@ Our paper can be found [here](https://github.com/manavkapadnis/CoCoTiNe/blob/mai
 	
 ## Author Contact Details
 
-[Goh Howe Sang](mailto:howeseng@gmail.com) <br>
+[Goh Howe Seng](mailto:howeseng@gmail.com) <br>
 [Tomas Maul](mailto:Tomas.Maul@nottingham.edu.my) <br>
 [Manav Nitin Kapadnis](mailto:iammanavk@gmail.com) <br>
 
